@@ -70,7 +70,7 @@ body {
   margin: 4px auto;
 }
 
-#switch button{
+#switch button {
   width: 32px;
   height: 32px;
 
@@ -174,7 +174,7 @@ footer {
 }
 
 /* media queries */
-@media(min-width: 700px) {
+@media (min-width: 700px) {
   :root {
     --bg-url: url(./assets/bg-desktop.jpg);
   }
